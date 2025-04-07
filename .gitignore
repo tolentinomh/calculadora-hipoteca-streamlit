@@ -21,7 +21,7 @@ wheels/
 *.egg
 
 # Streamlit
-.streamlit/
+# .streamlit/
 
 # Virtual Environment
 venv/
